@@ -1,0 +1,11 @@
+Items: {
+	NoxusHead: {
+		Tooltip: ""
+		DisplayName: Noxus Head
+	}
+}
+
+NoxusHead: {
+	Tooltip: A mask radiating dark void energy...
+	DisplayName: Noxus Mask
+}
